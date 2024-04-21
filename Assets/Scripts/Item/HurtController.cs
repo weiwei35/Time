@@ -1,10 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class HurtController : MonoBehaviour
-{
-    private void OnCollisionEnter2D(Collision2D other) {
-        Debug.Log(other.gameObject.name);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1d271a349f33b6dae35631db2db438e07e68d525080ad7ec81c59860030361e
+size 243

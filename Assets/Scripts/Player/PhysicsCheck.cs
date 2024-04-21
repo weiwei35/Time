@@ -1,18 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class PhysicsCheck : MonoBehaviour
-{
-    public bool isGround;
-    public float checkRadius;
-    public LayerMask groundLayer;
-
-    private void Update() {
-        Check();
-    }
-
-    void Check(){
-        isGround = Physics2D.OverlapCircle(transform.position,checkRadius,groundLayer);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:665899d7f960ce8d893575eef35620482cdb678c6d75177a7c3e3834e4796350
+size 399

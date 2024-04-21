@@ -1,11 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!62 &6200000
-PhysicsMaterial2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Soft
-  friction: 0
-  bounciness: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa34018cb5f1701c02bfa1fd416b69678d51c7c351487b3f9b3c77986e249c4
+size 251
